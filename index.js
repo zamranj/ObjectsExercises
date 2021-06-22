@@ -58,6 +58,7 @@ console.log(dog.move());
 console.log(waterBear.move());
 
 // Create an array to hold the animal objects.
+
 let crew = [superChimpOne, superChimpTwo, salamander, dog, waterBear]
 
 
